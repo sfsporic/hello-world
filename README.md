@@ -1,2 +1,2 @@
 # hello-world
-Learning how GitHub works by creating a repository.
+I'm learning how GitHub repositories, branches, and commits work.
